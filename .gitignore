@@ -1,0 +1,13 @@
+# Arquivos e diretórios específicos do PyInstaller
+__pycache__/
+dist/
+build/
+# *.spec
+
+# Arquivos gerados pelo Tkinter
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais (Opcional: remova se não estiver usando um ambiente virtual)
+venv/
