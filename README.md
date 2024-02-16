@@ -9,7 +9,8 @@ Bem-vindo à solução de automação que desenvolvi para simplificar o processo
 
 Sinta-se à vontade para clonar o repositório e personalizar a aplicação conforme suas necessidades.
 
-![image](https://github.com/paulo-henrique-phcm/python-rpa-exe-download-xml-sieg/assets/56412714/9294a56e-6a15-4429-bde9-8444b1b987a5)
+![aplicacao_sieg](https://github.com/paulo-henrique-phcm/python-rpa-exe-download-xml-sieg/assets/56412714/0e4b3af2-3bec-420d-bbf7-9646aa2f53c8)
+
 
 ## Motivação
 O portal SIEG é amplamente utilizado no mundo fiscal, oferecendo APIs para baixar XMLs de notas fiscais. No entanto, essas APIs têm limitações, como a incapacidade de baixar `notas específicas em grande quantidade`. O mesmo desafio se aplica à interface do portal ao tentar baixar uma grande quantidade de notas.
