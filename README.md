@@ -1,6 +1,9 @@
-## Olá comunidade!
+# Olá comunidade!
 Esta aplicação que fiz ajudará aqueles que precisam baixar grande quantidade de XML's de notas fiscais através do SIEG. Esper que seja útil!
 Sinta-se a vontade para clonar o repositório e modificar a aplicação para suas necessidades.
+
+
+![image](https://github.com/paulo-henrique-phcm/python-rpa-exe-download-xml-sieg/assets/56412714/9294a56e-6a15-4429-bde9-8444b1b987a5)
 
 # Motivação para criar a aplicação
 O portal SIEG é muito usado no mundo fiscal. Ele disponibiliza API's que nos possibilitam baixar XML's de notas fiscais, porém com limitações. Por exemplo, não podemos baixar notas específicas, somente todas as notas cadastradas num intervalo específico.
@@ -18,7 +21,6 @@ A imagem abaixo mostra como é a interface da aplicação. Nela podemos ver os s
 - 5 - NF-e e CT-e, são as abas onde você fornecerá as chaves XML válidas para serem baixadas, note que existe a separação entre os tipos de nota.
 	- Você pode separar as chaves por "," (vírgula) e/ou "Enter", por exemplo:
 		- 00000000000000000000000000000000000000000000, 00000000000000000000000000000000000000000000
-![image](https://github.com/paulo-henrique-phcm/python-rpa-exe-download-xml-sieg/assets/56412714/9294a56e-6a15-4429-bde9-8444b1b987a5)
 
 Após as informações preenchidas corretamente, Basta clicar em Baixar XML's, que a automação se inicia. Caso alguma informação estiver incorreta o erro será informado no texto logo abaixo do botão.
 Os arquivos baixados estarão disponíveis no diretório selecionado. Caso nenhum for selecionado, a própria aplicação criará uma pasta chamada "xmls_baixados" no seu próprio diretório.
